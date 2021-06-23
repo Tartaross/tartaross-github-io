@@ -2,7 +2,7 @@ title: Yi Huang's Blog # name of the site
 author: Yi Huang # name of site's author
 email: 1403116363@qq.com # email of site's author
 url: https://tartaross.github.io # root address of the site
-baseurl: "/Yi-Huang" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
